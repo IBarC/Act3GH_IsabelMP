@@ -13,5 +13,6 @@ public class arraynumrandom {
 		for (int i = 0; i < arraycont.length; i++) {
 			System.out.print("\n"+(i+1)+": "+arraycont[i]);
 		}
+		System.out.println("Hola caracola");
 	}
 }
